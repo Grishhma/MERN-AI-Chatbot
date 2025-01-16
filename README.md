@@ -65,6 +65,10 @@ To install the required dependencies for the backend, run the following commands
 cd backend
 npm install
 ```
+```bash
+cd backend
+npm run dev
+```
 ### 🎨 Frontend
 To set up the frontend dependencies, use the commands below:
 ```bash
@@ -84,6 +88,6 @@ npm run dev
 ```
 ### Access the Application
 Open your browser and navigate to:
-http://localhost:3000
+http://localhost:5173
 
 
