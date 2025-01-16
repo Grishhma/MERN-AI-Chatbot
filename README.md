@@ -53,7 +53,7 @@ This project is an **AI Chatbot** inspired by ChatGPT, built using the **MERN St
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/MERN-AI-Chatbot.git
+git clone https://github.com/Grishhma/MERN-AI-Chatbot.git
 cd MERN-AI-Chatbot
 ```
 
