@@ -55,3 +55,35 @@ This project is an **AI Chatbot** inspired by ChatGPT, built using the **MERN St
 ```bash
 git clone https://github.com/your-username/MERN-AI-Chatbot.git
 cd MERN-AI-Chatbot
+```
+
+## 📦 Install Dependencies
+
+### 🔧 Backend
+To install the required dependencies for the backend, run the following commands:
+```bash
+cd backend
+npm install
+```
+### 🎨 Frontend
+To set up the frontend dependencies, use the commands below:
+```bash
+cd frontend
+npm install
+```
+### Run the Application
+Start the Backend Server
+```bash
+cd backend
+npm start
+```
+Start the Frontend Server
+```bash
+cd ../frontend
+npm run dev
+```
+### Access the Application
+Open your browser and navigate to:
+http://localhost:3000
+
+
